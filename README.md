@@ -1,2 +1,2 @@
 # Marksheet 
-Here present to Marks or Marksheet related program
+Here present related to Marks or Marksheet program
