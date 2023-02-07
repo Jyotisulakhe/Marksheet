@@ -2,7 +2,7 @@
 #include<stdio.h>
 int main()
 {
-    int hindi,english,maths,chemistry,physics,Total;
+    int hindi,english,maths,chemistry,physics,Total;//marksheet average finding
     double Average;
     printf("Enter your marks to find average of all marks\n");
     scanf("%d%d%d%d%d",&hindi,&maths,&chemistry,&physics,&english);
